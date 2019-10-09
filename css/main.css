@@ -9,7 +9,7 @@ html {
 }
 
 section {
-
+  display: inline-block;
 }
 
 h2 {
@@ -31,13 +31,13 @@ img {
   vertical-align: middle;
   margin-top: 1.5rem;
   max-width: 25em;
-  display: inline-block;
+  width: auto;
 }
 
 body {
-  display: inline-block;
   font-family: Lato, sans-serif;
   color: #333;
+  margin: 1.5rem;
 }
 
 a {
