@@ -40,11 +40,11 @@ body {
   color: #333;
 }
 
-a {
+.btn {
   padding: .4em .75em;
   border-radius: .4em;
   text-decoration: none;
-  border: .4em solid #666;
+  border: none;
   color: #333;
 }
 
