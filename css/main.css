@@ -8,6 +8,20 @@ html {
   box-sizing: inherit;
 }
 
+section {
+  background-color: #eee9de;
+}
+
+h2 {
+  text-align: center;
+}
+
 p {
   font-family: "Lato", sans-serif;
+  text-align: left;
+  display: inline-block;
+}
+
+img {
+  vertical-align: middle;
 }
