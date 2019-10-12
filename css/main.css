@@ -39,6 +39,7 @@ body {
   font-family: Lato, sans-serif;
   color: #333;
   margin: 1rem;
+  vertical-align: middle;
 }
 
 a {
