@@ -32,13 +32,11 @@ img {
   vertical-align: middle;
   margin-top: 1.5rem;
   max-width: 25em;
-  width: 448px;
 }
 
 body {
   font-family: Lato, sans-serif;
   color: #333;
-  margin: 1.5rem;
 }
 
 a {
