@@ -10,7 +10,6 @@ html {
 
 section {
   display: inline;
-  vertical-align: middle;
 }
 
 h2 {
@@ -31,7 +30,7 @@ div {
 
 img {
   max-width: 25em;
-  display: block;
+  display: inline-block;
   width: 100%;
   margin: 1.5rem .25rem;
 }
