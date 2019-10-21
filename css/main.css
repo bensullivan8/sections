@@ -30,7 +30,7 @@ div {
 }
 
 img {
-  display: inline-block;
+  display: block;
   max-width: 25em;
   width: 100%;
   margin: 1.5rem .25rem;
