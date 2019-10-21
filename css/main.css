@@ -64,4 +64,5 @@ p {
 .btn {
   display: inline;
   border-radius: .4em;
+  margin: 1.5rem;
 }
