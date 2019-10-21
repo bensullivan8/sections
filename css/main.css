@@ -2,7 +2,6 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   background-color: #eee9de;
-  max-width: 25em;
 }
 
 *, *::before, *::after {
@@ -10,35 +9,37 @@ html {
 }
 
 section {
-  display: inline-block;
+  display: inline;
 }
 
 h2 {
-  text-align: center;
+  text-align: left;
   font-family: Lato, sans-serif;
   font-weight: bold;
-  color: #333;
+  color: #000;
   padding-top: 1em;
   margin-bottom: 1em;
+  display: inline-block;
 }
 
 div {
   font-family: Lato, sans-serif;
   text-align: left;
   color: #333;
+  display: inline-block;
 }
 
 img {
   margin-top: 1.5rem;
   max-width: 25em;
-  display: block;
+  display: inline;
   width: 100%;
 }
 
 body {
   font-family: Lato, sans-serif;
-  color: #333;
-  vertical-align: middle;
+  color: #000;
+  vertical-align: left;
   margin: .5rem;
 }
 
@@ -56,10 +57,10 @@ a:hover {
 }
 
 p {
-  max-width: 25em;
   margin-bottom: 1.5em;
+  max-width: 25em;
 }
 
 .btn {
-  display: inline-block;
+  display: inline;
 }
